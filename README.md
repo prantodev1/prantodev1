@@ -1,93 +1,238 @@
-<!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranto%20Chandro&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=60&descAlign=50" width="100%"/>
 
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
-  </ul>
 </div>
 
-<br/>
+<br>
 
-<!--- about --->
-- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
-  
-<br/>
+<div align="center">
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+# 👋 Hi, I'm **Pranto Chandro**
 
-<div>
-  <p align="left">
-    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
-  </p>
+### 💻 Aspiring Software Engineer | Web Developer | CSE Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Software+Engineering;Exploring+Flutter+%26+Dart;Improving+Problem+Solving;Turning+Ideas+Into+Real+World+Solutions;Code.+Build.+Learn.+Repeat." />
+
+<br><br>
+
+<a href="https://github.com/prantodev1">
+<img src="https://img.shields.io/badge/GitHub-prantodev1-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
 </div>
-
-<br/>
-
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
-
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/touhidcodes)
-
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
-
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/touhidcodes)
-
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
-
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
-
-<br/>
-
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
-
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
-| ------------- | ------------- |
-
-<br/>
-
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+## 👨‍💻 About Me
+
+Hi! I'm **Pranto Chandro**, a Computer Science & Engineering student passionate about building software and solving real-world problems.
+
+I enjoy learning **Web Development, Software Engineering, and Mobile App Development**. I believe in learning by building, practicing consistently, and improving my skills through hands-on projects.
+
+My goal is to become a **skilled software engineer** and build meaningful products that make a difference.
+
+### 🚀 Currently
+
+* 🔭 I'm working on **Web Development projects**
+* 🌱 I'm learning **JavaScript, TypeScript & React**
+* 📱 I'm exploring **Flutter & Dart**
+* 🧠 I'm improving my **Problem Solving & Data Structures**
+* 🛠️ I'm learning **Backend Development & Databases**
+* 📚 I'm continuously improving my **Software Engineering skills**
+* 🎯 My goal is to become a **Professional Software Engineer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+
+</p>
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Sc. in Computer Science & Engineering**
+  **Sonargaon University (SU)**
+  *Focus: Software Engineering, Web Development & Programming*
+
+---
+
+## 🎯 Development Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Web Development
+
+HTML & CSS
+JavaScript
+TypeScript
+React
+Tailwind CSS
+Backend Development
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Mobile Development
+
+Dart
+Flutter
+UI Development
+Mobile Applications
+App Development
+Problem Solving
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Engineering
+
+Clean Code
+Data Structures
+Algorithms
+REST APIs
+Database
+Software Engineering
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/prantodev1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=YOUR_PROJECT_1&theme=tokyonight" />
+
+</a>
+
+<a href="https://github.com/prantodev1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=YOUR_PROJECT_2&theme=tokyonight" />
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/prantodev1/YOUR_PROJECT_1">
+
+<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-2F81F7?style=for-the-badge" />
+
+</a>
+
+<a href="https://github.com/prantodev1/YOUR_PROJECT_2">
+
+<img src="https://img.shields.io/badge/📱%20Project%202-VIEW%20PROJECT-00C7B7?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prantodev1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantodev1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prantodev1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PrantoDev1/PrantoDev1/output/github-contribution-grid-snake.svg" width="100%" />
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Consistency is the key to becoming a great developer."*
+
+<br>
+
+<b>Thanks for visiting my profile! ❤️</b>
+
+<br><br>
+
+<i>Let's build something amazing together 🚀</i>
+
+</div>

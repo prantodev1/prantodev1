@@ -157,34 +157,12 @@ Software Engineering
 
 <div align="center">
 
-<a href="https://github.com/prantodev1">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=YOUR_PROJECT_1&theme=tokyonight" />
-
+<a href="https://github.com/prantodev1/ResturentManuProject">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=ResturentManuProject&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/prantodev1">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=YOUR_PROJECT_2&theme=tokyonight" />
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/prantodev1/YOUR_PROJECT_1">
-
-<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-2F81F7?style=for-the-badge" />
-
-</a>
-
-<a href="https://github.com/prantodev1/YOUR_PROJECT_2">
-
-<img src="https://img.shields.io/badge/📱%20Project%202-VIEW%20PROJECT-00C7B7?style=for-the-badge" />
-
+<a href="https://github.com/prantodev1/B14-A01-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prantodev1&repo=B14-A01-Project&theme=tokyonight" />
 </a>
 
 </div>
@@ -194,14 +172,19 @@ Software Engineering
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prantodev1&show_icons=true&theme=dark" alt="Pranto GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=prantodev1&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prantodev1&theme=dark" alt="Pranto GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com/?user=prantodev1&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -209,12 +192,10 @@ Software Engineering
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prantodev1/prantodev1/output/github-contribution-grid-snake.svg" alt="Pranto Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/prantodev1/prantodev1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
 </p>
----
-
-<div align="center">
-
 ### 💡 *"Consistency is the key to becoming a great developer."*
 
 <br>

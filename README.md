@@ -216,11 +216,12 @@ Software Engineering
 ## 🐍 Contribution Journey
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/PrantoDev1/PrantoDev1/output/github-contribution-grid-snake.svg" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/prantodev1/prantodev1/output/github-contribution-grid-snake.svg"
+    alt="Pranto Chandro GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
-
 ---
 
 <div align="center">

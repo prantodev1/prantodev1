@@ -193,34 +193,23 @@ Software Engineering
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prantodev1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantodev1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prantodev1&show_icons=true&theme=dark" alt="Pranto GitHub Stats" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prantodev1&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prantodev1&theme=dark" alt="Pranto GitHub Streak" />
+</p>
 
 ---
 
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prantodev1/prantodev1/output/github-contribution-grid-snake.svg"
-    alt="Pranto Chandro GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/prantodev1/prantodev1/output/github-contribution-grid-snake.svg" alt="Pranto Contribution Snake" />
 </p>
 ---
 

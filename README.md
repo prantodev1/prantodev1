@@ -26,7 +26,7 @@
 - 🧠 Currently focused on **Data Structures & Algorithms, Full Stack Development, and Machine Learning**.
 - 🌱 Continuously learning and improving my **problem-solving and software development skills**.
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL**.
-- 📫 Feel free to reach me at **[Email](mailto:prentodev@gmail.com)**
+- 📫 Feel free to reach me at **[Email](https://mail.google.com/mail/?view=cm&fs=1&to=prentodev@gmail.com)**
 - 📍 Based in **Bangladesh**
 
 <br/>

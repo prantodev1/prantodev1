@@ -17,3 +17,16 @@
 </div>
 
 <br/>
+
+<!-- About Me -->
+- 👋 Hi, I'm **[Pranto Chandro Paul](https://github.com/prantodev1)**
+- 💻 I'm passionate about **Full Stack Web Development** and building modern, user-friendly web applications.
+- 🚀 I'm currently working with **React.js, Next.js, and TypeScript** for frontend development.
+- 🛠️ I'm learning **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
+- 🧠 Currently focused on **Data Structures & Algorithms, Full Stack Development, and Machine Learning**.
+- 🌱 Continuously learning and improving my **problem-solving and software development skills**.
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL**.
+- 📫 Feel free to reach me at **[Email](mailto:prentodev@gmail.com)**
+- 📍 Based in **Bangladesh**
+
+<br/>

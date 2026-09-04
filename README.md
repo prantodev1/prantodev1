@@ -66,3 +66,9 @@
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/prantodev1)
 
 <br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+### GitHub Contributions:
+![Snake Grid](https://github.com/prantodev1/contribution-snake/blob/main/grid.svg)
+

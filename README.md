@@ -72,3 +72,30 @@
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/prantodev1/contribution-snake/blob/main/grid.svg)
 
+### GitHub Stats:
+<p align="center">
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=prantodev1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+
+  <!-- 🔥 Contribution Streak -->
+
+  <img src="https://streak-stats.demolab.com/?user=prantodev1&theme=dark&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <!-- 💻 Top Languages -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prantodev1&theme=dark&hide_border=true&layout=compact&count_private=true" height="180" />
+</p>
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>RANDOM DEV QUOTE</b>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<br/>
+

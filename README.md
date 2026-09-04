@@ -30,3 +30,39 @@
 - 📍 Based in **Bangladesh**
 
 <br/>
+<!--- socials --->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.facebook.com/share/1LTAej97hQ/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/1520281600728895660" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/X1KFHVCxDc/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" width="40" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,typescript)](https://github.com/prantodev1)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/prantodev1)
+
+### JavaScript Ecosystem:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs)](https://github.com/prantodev1)
+
+### Database:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/prantodev1)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/prantodev1)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/prantodev1)
+
+<br/>
